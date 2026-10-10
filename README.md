@@ -20,3 +20,4 @@ HeadTracker 2.0 is the successor to HeadTracker 1.0, which previously relied on 
 
 ## Requirements
 Requires the **OpenTrack** application to be installed, with **"facetrack 2.0 Enhanced"** selected in the Output menu and the **"Both"** dropdown option chosen within the Output settings.
+You also need to edit controls.sii inside your ETS2 profile folder (located in Documents) and change constant c_ht_roll 0.000000 to constant c_ht_roll 1.000000.
