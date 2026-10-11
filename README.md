@@ -29,7 +29,7 @@ HeadTracker 2.0 is the successor to [HeadTracker 1.0](https://github.com/pebbian
 <img width="480" alt="WhatsApp Image 2026-10-11 at 11 17 45" src="https://github.com/user-attachments/assets/be639e45-3038-4ace-8fd6-20083639fb7e" />
 </div>
 
-Besides the sensitivity curves displayed at the top of the UI, the app utilizes an adaptive filter (One Euro Filter) to balance stability and responsiveness in real time:
+Besides the sensitivity curves displayed at the top of the app, this app utilizes an adaptive filter (One Euro Filter) to balance stability and responsiveness in real time:
 
 * **Smoothing (`min cutoff`)**
   Acts as the primary jitter stabilizer. Lower values apply heavier smoothing to filter out subtle facial tremors, micromovements, and sensor noise, resulting in a rock-solid, jitter-free camera output.
