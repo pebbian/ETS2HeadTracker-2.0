@@ -47,3 +47,5 @@ Besides the curves displayed at the top of the UI, the app utilizes an adaptive 
 ## Requirements
 Requires **Android 10** Phone and [OpenTrack](https://github.com/opentrack/opentrack) installed on your PC, with **"facetrack 2.0 Enhanced"** selected in the Output menu and the **"Both"** dropdown option chosen within the Output settings.
 You also need to edit controls.sii inside your ETS2 profile folder (located in Documents) and change constant c_ht_roll 0.000000 to constant c_ht_roll 1.000000.
+
+Enjoying the project? You can support me here: https://ko-fi.com/pebbian. Thanks for having my back!
