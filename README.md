@@ -12,7 +12,7 @@ HeadTracker 2.0 is the successor to HeadTracker 1.0, which previously relied on 
 1. Launch the Receiver on your PC.
 2. Type N on the Receiver panel if you didn't want to change current settings
 3. Open the Android App.
-4. Connect both devices by using the same Wi-Fi network or a portable mobile hotspot.
+4. Connect both devices by using the same Wi-Fi network or a portable mobile hotspot (in my case, it didn't want to connect until i restarted WiFi on my phone).
 5. Once connected, the receiver panel will show a green "CONNECTED" status.
 6. Launch ETS2 and enable head tracking.
 7. Turn on HeadTracker by pressing the Start button.
